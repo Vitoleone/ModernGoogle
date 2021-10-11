@@ -67,6 +67,14 @@ a:hover{
 #searchbar:hover{
   box-shadow: 0 0 10px 2px rgb(201, 199, 199);
 }
+.SearchButtonIcon{
+  width: 20px;
+  height: 20px;
+}
+.voicelogo{
+  width: 25px;
+  height: 25px;
+}
 #buttons{
   display: flex;
   justify-content: center;
@@ -94,6 +102,6 @@ body{
   flex-direction: column;
 }
 #footer-content{
-background: #eee;
+background: #f2f2f2;
 border-top: 1px solid rgb(206, 201, 201);
 }
